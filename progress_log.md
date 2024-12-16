@@ -92,3 +92,19 @@ To save the file, follow these steps in the terminal:
 1. Open the editor:  
    ```bash
    nano progress_log.md
+
+## December 16, 2024
+- Learned about Flask basics and how to serve a page using NGINX.
+- Successfully transferred an image to the server and displayed it.
+- Set up daily progress logging with GitHub for better tracking.
+- Key Commands Learned:
+  - `scp` for secure file transfers.
+  - `git` for version control.
+- Next Steps:
+  - Explore automation tools (GitHub Actions, etc.).
+  - Learn about securing web servers.
+
+---
+
+## December 17, 2024
+- Plan: Study more about...
